@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Ebou Gaye</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="first_part">Ebou Gaye is a Gambian currently residing in the United Kingdom. He is a member of the Writers\' Association of the Gambia and an alumnus of Cambridge Wolfson College. Ebou Gaye attended King </string>
+    <string name="second_part">Saud University, the Management Development Institute, the University of Cambridge and the Banjul postgraduate extension programme of the University of Limoges in Saudi Arabia, the Gambia, the United Kingdom and France, respectively. He holds certificates, diplomas, a BA Hons degree and MA degrees in different disciplines. Ebou Gaye has taught General Science, Literature, Islamic Studies, Arabic, French and English for three years. Besides, he has worked as Administrative Officer with the Gambia Government for five years, serving at different ministries- the last being the Ministry of Finance and Economic Affairs. Ebou Gaye has written over 150 articles on various issues and a novel entitled Patience Is Accompanied By Smiles. Fake Love is his second novel. He won the Outstanding Features Writer Award of the Daily Observer newspaper of the Gambia in 2001.</string>
+</resources>
